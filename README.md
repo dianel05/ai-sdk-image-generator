@@ -17,7 +17,7 @@
 <br/>
 
 
-## Features
+## Features 
 
 - Supports image generation using [`generateImage`](https://sdk.vercel.ai/docs/reference/ai-sdk-core/generate-image) from the [AI SDK by Vercel](https://sdk.vercel.ai/docs), allowing multiple AI providers to be used interchangeably with just a few lines of code.
 - A single input to generate images across multiple providers simultaneously.
