@@ -7,7 +7,7 @@
   An open-source AI image generation app template built with Next.js, the AI SDK by Vercel, and various AI providers (Replicate, Fireworks, Google Vertex AI, OpenAI).
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="#features"><strong>Features</strong></a> ·
   <a href="#model-providers"><strong>Model Providers</strong></a> ·
   <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
